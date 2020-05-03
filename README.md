@@ -9,3 +9,5 @@ My very own personal website. Basically this is just a résumé.
 * PUBLICATIONS
 * ACHIEVEMENTS
 * Some life details
+
+"🧙Hocus-pocus!"
